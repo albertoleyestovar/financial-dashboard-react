@@ -52,4 +52,4 @@ The project was developed using the following technologies
 
 ---
 
-Developed by 🐻 por Renan Vilela
+Developed by 🐻 Alberto
